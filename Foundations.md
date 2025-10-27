@@ -7,7 +7,9 @@
   - [Design Thinking](#design-thinking)
   - [Design Sprints](#design-sprints)
     - [Design Sprint Phases](#design-sprint-phases)
+  - [Module 3 Glossary](#module-3-glossary)
   - [UX Research](#ux-research)
+  - [Module 4 Glossary](#module-4-glossary)
 
 
 # Foundations
@@ -167,6 +169,32 @@ Testing and Feedback
 
 This structured approach helps teams effectively address design challenges and enhance user experience.
 
+## Module 3 Glossary
+
+Brand Identity: The visual appearance and voice of a company
+
+Define: The phase of design thinking that involves leveraging the insights gained during the empathize phase to identify the problem you’ll solve with your design.
+
+Design Agency: A one-stop shop for the look of brands, products, and services
+
+Design Sprint: A time-bound process, with five phases typically spread over five full 8-hour days. The goal of design sprints is to answer critical business questions through designing, prototyping, and testing ideas with users
+
+Design thinking: A UX design framework that focuses on the user throughout all five phases: empathize, define, ideate, prototype, and test.
+
+Empathize: The phase of design thinking that involves getting to know your user through research.
+
+Ideate: The phase of design thinking that involves brainstorming all potential solutions to the user’s problem.
+
+Insight: An observation that helps you understand the user or their needs from a new perspective
+
+Prototype:  An early model of a product that demonstrates its functionality and can be used for testing
+
+Retrospective: A collaborative critique of the team’s design sprint
+
+Sprint Brief: A document that you share with all your attendees to help them prepare for the sprint
+
+Test: The phase of design thinking that involves facilitating and observing user tests with your design prototypes.
+
 ## UX Research
 
 UX research focuses on understanding user behaviors, needs, and motivations through observation and feedback.
@@ -194,9 +222,52 @@ The third type of user research is called **post-launch research**. Post-launch 
 
 Qualities of a good UX researcher include empathy, pragmatism, and collaboration.
 
-The **product development life cycle** has five stages: 
-- Brainstorm
-- Define
-- Design
-- Test
-- Launch
+## Module 4 Glossary
+
+Bias: Favoring or having prejudice against something based on limited information
+
+Confirmation Bias: Occurs when you start looking for evidence to prove a hypothesis you
+
+have
+
+Design Research: Answers the question: How should we build it?
+
+False consensus bias: The assumption that others will think the same way as you do
+
+Foundational research: Answers the questions: What should we build? What are the user
+
+problems? How can we solve them?
+
+Implicit bias: The collection of attitudes and stereotypes you associate with people without
+
+your conscious knowledge
+
+Interviews: A research method used to collect in-depth information on people’s opinions,
+
+thoughts, experiences, and feelings
+
+Key Performance Indicators (KPIs): Critical measures of progress toward an end goal
+
+Post-launch research: Answers the question: Did we succeed?
+
+Primacy bias: Remembering the first user more than others
+
+Primary research: Research you conduct yourself
+
+Qualitative research: Focuses observations on why and how things happen
+
+Quantitative research: Focuses on data that can be gathered by counting or measuring
+
+Recency bias: Most easily remembering the last thing you heard
+
+Secondary research: Research that uses information someone else has put together
+
+Sunk cost fallacy: The idea that the deeper we get into a project we’ve invested in, the harder
+
+it is to change course
+
+Surveys: An activity where many people are asked the same questions in order to understand
+
+what most people think about a product
+
+Usability study: A technique used to evaluate a product by testing it on users
