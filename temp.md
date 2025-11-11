@@ -155,3 +155,9 @@ An **empathy map** is an easily understood chart that explains everything desigh
 4. How the user feels
 5. The user is in the center, touching each of the four areas
 
+**Types of empathy maps**
+
+It's important to understand that there are two types of empathy maps: **one-user empathy maps** and **aggregated empathy maps** (also known as "multiple-user empathy maps"). One-user empathy maps are created by taking the data from one user's interview and turning it into an empathy map, like the example earlier in this reading. This approach helps designers distill a single user's thoughts, feelings, and traits into a format that's easier to gather data from.
+
+The other kind of empathy map, an aggregated empathy map, represents a group of users who share similar thoughts, opinions, or qualities. Aggregated empathy maps are created by creating multiple one-user empathy maps, then combining the maps where users expressed similar things into a new empathy map. This helps designers identify segments, or groups of people with similar tendencies, who will use the product. The insights in aggregated empathy maps allow designers to identify themes, which helps them better empathize with the groups they are designing for.
+
