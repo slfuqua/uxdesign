@@ -161,3 +161,8 @@ It's important to understand that there are two types of empathy maps: **one-use
 
 The other kind of empathy map, an aggregated empathy map, represents a group of users who share similar thoughts, opinions, or qualities. Aggregated empathy maps are created by creating multiple one-user empathy maps, then combining the maps where users expressed similar things into a new empathy map. This helps designers identify segments, or groups of people with similar tendencies, who will use the product. The insights in aggregated empathy maps allow designers to identify themes, which helps them better empathize with the groups they are designing for.
 
+### Personas
+
+**Personas** are fictional users whose goals and characteristics represent the needs of a larger group of people.
+
+A **user group** is a set of people who have similar interestes, goals, or concerns.
